@@ -1,4 +1,5 @@
 # fahrenheit-para-celsius
 Um Programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.
 
-![ed364b6d-cbad-41fd-9c4c-6fafe8c6b14b](https://user-images.githubusercontent.com/105546921/222271897-84b12dbe-74f0-4e0f-9273-8ec8e5977562.jpg)
+![imagem_2023-03-01_200739616](https://user-images.githubusercontent.com/105546921/222287206-2a538d9c-0556-4261-abf4-39cac906e6e3.png)
+
